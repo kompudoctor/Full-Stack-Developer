@@ -1,0 +1,105 @@
+body{
+    background-color: cornflowerblue;
+    font-family: Calibri, sans-serif;
+    color: black;
+    font-size: 12pt;
+}
+
+p{
+    color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    color: black;
+    line-height: 70%;
+}
+
+h1 {
+    font-size: 32pt;
+    color: blue;
+}
+
+h2 {
+    font-size: 28pt;
+    color: darkblue;
+}
+
+h3 {
+    font-size: 24pt;
+    color: yellow;
+}
+
+h4 {
+    font-size: 22pt;
+    color: black;
+}
+
+h5 {
+    font-size: 18pt;
+    color: yellowgreen;
+}
+
+h6 {
+    font-size: 14pt;
+    color: green;
+}
+
+#soy-hector{
+    font-size: 16pt;
+    font-weight: bold;
+    color: green;
+}
+
+.clase-normal {
+    color: blue;
+    font-style: italic;
+    font-size: 14pt;
+}
+
+.clase-centrada {
+    text-align: center;
+    font-size: 18pt;
+}
+
+a, img {
+    display: inline-block;
+}
+
+.picRight {
+    float: right;
+    margin-left: 200px;
+}
+
+.picLeft {
+    float: left;
+    margin-left: 200px;
+    
+}
+
+.bloqueTop {
+    height:480px;
+}
+
+.bloqueLeft {
+    width:50%;
+    height:300px;
+    float: left;
+}
+
+.bloqueCenter {
+    width:48%;
+    height:300px;
+    float: left;
+}
+
+.bloqueRight {
+    height:280px;
+    float: right;
+}
+
+.bloqueBottom {
+    font-size: 64pt;
+    text-align: center;
+}
+
